@@ -1,2 +1,5 @@
 aiopg
 psycopg2-binary
+docker
+redis
+aiohttp
